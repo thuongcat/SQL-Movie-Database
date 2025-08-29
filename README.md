@@ -1,5 +1,3 @@
-## SQL-Movie-Database
-Beginner SQL project using SQL (Docker + Azure Data Studio)
 # Movie Database (SQL Beginner Project)
 
 # Dataset
