@@ -1,4 +1,4 @@
-# SQL-Movie-Database
+## SQL-Movie-Database
 Beginner SQL project using MySQL (Docker + Azure Data Studio)
 # Movie Database (SQL Beginner Project)
 
@@ -11,10 +11,10 @@ Tự tạo bảng 'movies' gồm 7 phim nổi tiếng với các cột:
 - rating
 
 # Queries
-1. Lấy tất cả phim  
+1. Xem full table
 2. Lọc phim có rating > 9  
 3. Đếm số phim theo thể loại  
-4. Tìm phim mới nhất  
+4. Tìm phim mới nhất dựa theo năm  
 5. Trung bình rating theo thể loại  
 6. Top 3 phim có rating cao nhất  
 
